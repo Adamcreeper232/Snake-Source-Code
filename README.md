@@ -89,3 +89,6 @@ curses.wrapper(main)
 main
 PY
 
+after that  run the game:
+python3 snake.py
+enjoy
