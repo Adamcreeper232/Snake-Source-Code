@@ -1,4 +1,4 @@
-# Snake-Source-Code 
+# Snake-Source-Code GO TO CODE
 Snake for linux make with phyton the polish version
 To install it you need phyton type: 
 sudo apt install python3-curses
